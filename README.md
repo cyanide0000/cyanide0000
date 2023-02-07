@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @cyanide0000
+- 👋 Hi, I’m Syv!
+- 💕 Im a discord bot dev!
+- 
