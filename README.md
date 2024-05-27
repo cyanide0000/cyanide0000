@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Syv!
-- 💕 Im a discord bot dev!
-- 
+- 💕 I like bots :3
+  
